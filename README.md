@@ -11,7 +11,7 @@
 - 💬 Ask me about anything.
 - 📫 You can reach me on   
       1. [LinkedIn](https://www.linkedin.com/in/ayush-gupta-0b01691b3/) <br>
-      2. [Codepen](https://codepen.io/fitc0de)
+      1. [Codepen](https://codepen.io/fitc0de)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I workout 5 days a week.
 
