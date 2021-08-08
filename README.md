@@ -5,7 +5,7 @@
 - 🌱 I have even touched advanced CSS, working with advanced properties like transform creating various animations and creating layouts with grid and flex.
 - 🌱 Talking of HTML, have learnt semantics, a part of accessibility (screen readers too).
 - 🌱 I have worked with some WEB apis and third party apis too (which don't require any api key).
-- 🌱 I have also started using react and made some mini projects with it.
+- 🌱 I have also started using REACT and made some mini projects with it.
 <!-- - 👯 I’m looking to collaborate on github.  -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything.
