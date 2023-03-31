@@ -15,6 +15,5 @@
 - 📫 You can find me on   
       1. [LinkedIn](https://www.linkedin.com/in/ayush-gupta-0b01691b3/) <br>
       2. [LeetCode](https://leetcode.com/fitc0de/)
-- My portfolio website - https://ayush-gupta.herokuapp.com/
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I workout 5 days a week.
